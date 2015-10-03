@@ -7,4 +7,7 @@ package org.thecloud;
 
 public class Bootstrap {
 
+    public static void main(String[] args){
+        
+    }
 }
